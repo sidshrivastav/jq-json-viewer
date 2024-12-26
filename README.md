@@ -1,2 +1,2 @@
-# jq-json-viewer
+# JSONViewer++
 JSON viewer with JSON parser
